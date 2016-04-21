@@ -1,0 +1,2812 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-82.672584, 10.110604]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Fuerza Aérea Argentina",
+            "total_occupants": "69",
+            "presumed_accident_location": "off Puerto Limon",
+            "country": "Costa Rica",
+            "presumed_area": "sea",
+            "date": "November 3, 1965",
+            "nature": "Military",
+            "departure_airport": "Balboa-Howard air force base in Panama",
+            "intended_destination": "Comalapa International Airport in El Salvador",
+            "asn_id": "19651103-0",
+            "type": "Douglas C-54 (DC-4)",
+            "mh370": null,
+            "month_and_day_asn_id": "19651103-0",
+            "month_and_day": "2003-11-01T00:00:00Z",
+            "year": 1965,
+            "cartodb_id": 1,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-42.621516, 43.635149]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Continental Air Transport",
+            "total_occupants": "3",
+            "presumed_accident_location": "unknown area",
+            "country": "Atlantic Ocean",
+            "presumed_area": "sea",
+            "date": "March 9, 1969",
+            "nature": "Cargo",
+            "departure_airport": "Halifax International Airport in Canada",
+            "intended_destination": "Santa Maria-Vila do Porto Airport in the Azores",
+            "asn_id": "19690309-0",
+            "type": "Douglas DC-4",
+            "mh370": null,
+            "month_and_day_asn_id": "19690309-0",
+            "month_and_day": "2009-03-01T00:00:00Z",
+            "year": 1969,
+            "cartodb_id": 2,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.263426, 13.230391]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "LANICA",
+            "total_occupants": "3",
+            "presumed_accident_location": "unknown area",
+            "country": "Nicaragua",
+            "presumed_area": "land",
+            "date": "August 14, 1952",
+            "nature": "Cargo",
+            "departure_airport": "Bonanza",
+            "intended_destination": "Managua, within Nicaragua",
+            "asn_id": "19520814-1",
+            "type": "Douglas C-47 (DC-3)",
+            "mh370": null,
+            "month_and_day_asn_id": "19520814-1",
+            "month_and_day": "2014-08-01T00:00:00Z",
+            "year": 1952,
+            "cartodb_id": 3,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-150.217002, 26.399488]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Trans National Airlines",
+            "total_occupants": "2",
+            "presumed_accident_location": "off Honolulu, HI",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "July 20, 1979",
+            "nature": "Ferry/positioning",
+            "departure_airport": "San Jose Municipal Airport in California",
+            "intended_destination": "Honolulu International Airport in Hawaii",
+            "asn_id": "19790720-2",
+            "type": "Douglas DC-3",
+            "mh370": 0,
+            "month_and_day_asn_id": "19790720-2",
+            "month_and_day": "2020-07-01T00:00:00Z",
+            "year": 1979,
+            "cartodb_id": 4,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [0.234676, -0.335379]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Renan",
+            "total_occupants": "5",
+            "presumed_accident_location": "between Abidjan and Rundu",
+            "country": "Atlantic Ocean",
+            "presumed_area": "sea",
+            "date": "December 22, 1997",
+            "nature": "Cargo",
+            "departure_airport": "Port Bouet Airport, Ivory Coast,",
+            "intended_destination": "Rundu Airport in Namibia",
+            "asn_id": "19971222-1",
+            "type": "Antonov 72",
+            "mh370": 0,
+            "month_and_day_asn_id": "19971222-1",
+            "month_and_day": "2022-12-01T00:00:00Z",
+            "year": 1997,
+            "cartodb_id": 5,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [103.929127, 18.726607]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Royal Air Lao",
+            "total_occupants": "23",
+            "presumed_accident_location": "between Savannakhet and Vientiane",
+            "country": "Laos",
+            "presumed_area": "land",
+            "date": "February 11, 1972",
+            "nature": "Domestic Scheduled Passenger",
+            "departure_airport": "Savannakhet Airport",
+            "intended_destination": "Vientiane-Wattay Airport, within Laos",
+            "asn_id": "19720211-0",
+            "type": "Douglas DC-4",
+            "mh370": null,
+            "month_and_day_asn_id": "19720211-0",
+            "month_and_day": "2011-02-01T00:00:00Z",
+            "year": 1972,
+            "cartodb_id": 6,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.296799, -1.211437]
+        },
+        "properties": {
+            "phase": "Unknown",
+            "operator": "Force Aérienne Gabonaises",
+            "total_occupants": "3",
+            "presumed_accident_location": "unknown area",
+            "country": "Gabon",
+            "presumed_area": "land",
+            "date": "December 11, 2000",
+            "nature": "Military",
+            "departure_airport": "Libreville Airport",
+            "intended_destination": "Tchibanga Airport, within Gabon",
+            "asn_id": "20001211-0",
+            "type": "Embraer 110P1K Bandeirante",
+            "mh370": 0,
+            "month_and_day_asn_id": "20001211-0",
+            "month_and_day": "2011-12-01T00:00:00Z",
+            "year": 2000,
+            "cartodb_id": 7,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [107.105225, 0.503821]
+        },
+        "properties": {
+            "phase": "Unknown",
+            "operator": "Dirgantara Air Services",
+            "total_occupants": "3",
+            "presumed_accident_location": "off Batu Island",
+            "country": "Indonesia",
+            "presumed_area": "sea",
+            "date": "June 25, 1992",
+            "nature": "Ferry/positioning",
+            "departure_airport": "Seletar Airport in Singapore",
+            "intended_destination": "Supadio Airport, Indonesia",
+            "asn_id": "19920625-2",
+            "type": "CASA/Nurtanio NC-212-A4 Aviocar",
+            "mh370": 0,
+            "month_and_day_asn_id": "19920625-2",
+            "month_and_day": "2025-06-01T00:00:00Z",
+            "year": 1992,
+            "cartodb_id": 8,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-50.205424, 45.076365]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Faucett",
+            "total_occupants": "18",
+            "presumed_accident_location": "290 km SE off Newfoundland",
+            "country": "Atlantic Ocean",
+            "presumed_area": "sea",
+            "date": "September 11, 1990",
+            "nature": "Ferry/positioning",
+            "departure_airport": "Keflavík International Airport in Iceland",
+            "intended_destination": "Gander Airport in Newfoundland",
+            "asn_id": "19900911-0",
+            "type": "Boeing 727-247",
+            "mh370": 0,
+            "month_and_day_asn_id": "19900911-0",
+            "month_and_day": "2011-09-01T00:00:00Z",
+            "year": 1990,
+            "cartodb_id": 9,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [73.597306, 35.026185]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "PIA",
+            "total_occupants": "54",
+            "presumed_accident_location": "between Gilgit and Islamabad",
+            "country": "Pakistan",
+            "presumed_area": "land",
+            "date": "August 25, 1989",
+            "nature": "Domestic Scheduled Passenger",
+            "departure_airport": "Gilgit",
+            "intended_destination": "Islamabad, within Pakistan",
+            "asn_id": "19890825-1",
+            "type": "Fokker F-27",
+            "mh370": 0,
+            "month_and_day_asn_id": "19890825-1",
+            "month_and_day": "2025-08-01T00:00:00Z",
+            "year": 1989,
+            "cartodb_id": 10,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-68.202113, -15.65743]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Aerolineas La Paz",
+            "total_occupants": "5",
+            "presumed_accident_location": "between La Paz and Apolo",
+            "country": "Bolivia",
+            "presumed_area": "land",
+            "date": "January 17, 1989",
+            "nature": "Domestic Non Scheduled Passenger",
+            "departure_airport": "La Paz-El Alto Airport",
+            "intended_destination": "Apolo Airport, within Bolivia",
+            "asn_id": "19890117-1",
+            "type": "Douglas DC-3",
+            "mh370": 0,
+            "month_and_day_asn_id": "19890117-1",
+            "month_and_day": "2017-01-01T00:00:00Z",
+            "year": 1989,
+            "cartodb_id": 11,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.286507, 3.631637]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Fuerza Aérea Colombiana",
+            "total_occupants": "8",
+            "presumed_accident_location": "between Villavicencio and Neiva",
+            "country": "Colombia",
+            "presumed_area": "land",
+            "date": "August 30, 1988",
+            "nature": "Military",
+            "departure_airport": "Villavicencio Airport",
+            "intended_destination": "Neiva Airport, within Colombia",
+            "asn_id": "19880830-1",
+            "type": "Douglas AC-47B (DC-3)",
+            "mh370": 0,
+            "month_and_day_asn_id": "19880830-1",
+            "month_and_day": "1930-08-01T00:00:00Z",
+            "year": 1988,
+            "cartodb_id": 12,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [125.808587, 6.713642]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Village Airways",
+            "total_occupants": "4",
+            "presumed_accident_location": "off Davao",
+            "country": "Philippines",
+            "presumed_area": "sea",
+            "date": "October 31, 1984",
+            "nature": "Cargo",
+            "departure_airport": "Davao-Mati Airport",
+            "intended_destination": "Manila International Airport within the Philippines",
+            "asn_id": "19841031-0",
+            "type": "Douglas DC-3",
+            "mh370": 0,
+            "month_and_day_asn_id": "19841031-0",
+            "month_and_day": "1931-10-01T00:00:00Z",
+            "year": 1984,
+            "cartodb_id": 13,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.481859, 3.668663]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Fuerza Aérea Colombiana",
+            "total_occupants": "4",
+            "presumed_accident_location": "within Valle or Caldas Department",
+            "country": "Colombia",
+            "presumed_area": "land",
+            "date": "February 21, 1983",
+            "nature": "Military",
+            "departure_airport": "Puerto Leguizamo",
+            "intended_destination": "Cali Airport, within Colombia",
+            "asn_id": "19830221-0",
+            "type": "Douglas DC-3",
+            "mh370": 0,
+            "month_and_day_asn_id": "19830221-0",
+            "month_and_day": "2021-02-01T00:00:00Z",
+            "year": 1983,
+            "cartodb_id": 14,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1.639932, 39.902304]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Hémet Exploration",
+            "total_occupants": "4",
+            "presumed_accident_location": "off Mallorca, Spain",
+            "country": "Mediterranean Sea",
+            "presumed_area": "sea",
+            "date": "April 21, 1981",
+            "nature": "International Non Scheduled Passenger",
+            "departure_airport": "Oran-es Senia Airport in Algeria",
+            "intended_destination": "Toulouse-Blagnac Airport in France",
+            "asn_id": "19810421-0",
+            "type": "Douglas DC-3",
+            "mh370": 0,
+            "month_and_day_asn_id": "19810421-0",
+            "month_and_day": "2021-04-01T00:00:00Z",
+            "year": 1981,
+            "cartodb_id": 15,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-60.146575, 12.656551]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Air Inuit",
+            "total_occupants": "3",
+            "presumed_accident_location": "75 km SW off Bridgetown, Barbados",
+            "country": "",
+            "presumed_area": "sea",
+            "date": "March 17, 1979",
+            "nature": "Ferry/positioning",
+            "departure_airport": "Georgetown-Timehri International Airport in Barbados",
+            "intended_destination": "unknown airport",
+            "asn_id": "19790317-0",
+            "type": "de Havilland Canada DHC-4A Caribou",
+            "mh370": 0,
+            "month_and_day_asn_id": "19790317-0",
+            "month_and_day": "2017-03-01T00:00:00Z",
+            "year": 1979,
+            "cartodb_id": 16,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.048598, -9.885542]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Aeronaves del Peru",
+            "total_occupants": "6",
+            "presumed_accident_location": "unknown area",
+            "country": "Peru",
+            "presumed_area": "land",
+            "date": "August 28, 1976",
+            "nature": "Cargo",
+            "departure_airport": "Lima-Callao International Airport in Peru",
+            "intended_destination": "Caracas Airport in Venezuela",
+            "asn_id": "19760828-0",
+            "type": "Canadair CC-106 Yukon",
+            "mh370": 0,
+            "month_and_day_asn_id": "19760828-0",
+            "month_and_day": "2028-08-01T00:00:00Z",
+            "year": 1976,
+            "cartodb_id": 17,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-70.150855, 12.27413]
+        },
+        "properties": {
+            "phase": "Unknown",
+            "operator": "Aerosucre Colombia",
+            "total_occupants": "2",
+            "presumed_accident_location": "unknown area",
+            "country": "Aruba",
+            "presumed_area": "sea",
+            "date": "September 16, 1976",
+            "nature": "Cargo",
+            "departure_airport": "Ernesto Cortissoz International Airport in Colombia",
+            "intended_destination": "Queen Beatrix International Airport in Aruba",
+            "asn_id": "19760916-0",
+            "type": "Curtiss C-46D Commando",
+            "mh370": 0,
+            "month_and_day_asn_id": "19760916-0",
+            "month_and_day": "2016-09-01T00:00:00Z",
+            "year": 1976,
+            "cartodb_id": 18,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.064793, 15.879114]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Inair Panama",
+            "total_occupants": "2",
+            "presumed_accident_location": "between Curaçao and Port-au-Prince [Caribbean Sea]",
+            "country": "Haiti",
+            "presumed_area": "sea",
+            "date": "November 5, 1976",
+            "nature": "Cargo",
+            "departure_airport": "Hato International Airport in Curaçao",
+            "intended_destination": "Port-au-Prince-Mais Gate Airport in Haiti",
+            "asn_id": "19761105-0",
+            "type": "Douglas DC-3",
+            "mh370": 0,
+            "month_and_day_asn_id": "19761105-0",
+            "month_and_day": "2005-11-01T00:00:00Z",
+            "year": 1976,
+            "cartodb_id": 19,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.913657, 9.789859]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Cooperativa de Montecillos",
+            "total_occupants": "4",
+            "presumed_accident_location": "65 km off Bocas del Toro",
+            "country": "Panama",
+            "presumed_area": "sea",
+            "date": "June 30, 1977",
+            "nature": "Cargo",
+            "departure_airport": "Juan Santamaria International Airport in Costa Rica",
+            "intended_destination": "Simón Bolívar International Airport in Venezuela",
+            "asn_id": "19770630-0",
+            "type": "Lockheed L-188CF Electra",
+            "mh370": 0,
+            "month_and_day_asn_id": "19770630-0",
+            "month_and_day": "1930-06-01T00:00:00Z",
+            "year": 1977,
+            "cartodb_id": 20,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-69.990157, -33.478961]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Aerotransportes Entre Rios",
+            "total_occupants": "5",
+            "presumed_accident_location": "near Santiago",
+            "country": "Chile",
+            "presumed_area": "land",
+            "date": "July 20, 1972",
+            "nature": "Cargo",
+            "departure_airport": "Carrasco Airport in Uruguay",
+            "intended_destination": "Santiago, Chile",
+            "asn_id": "19720720-0",
+            "type": "Canadair CC-106 Yukon",
+            "mh370": null,
+            "month_and_day_asn_id": "19720720-0",
+            "month_and_day": "2020-07-01T00:00:00Z",
+            "year": 1972,
+            "cartodb_id": 21,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.359047, 19.8778]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Air America",
+            "total_occupants": "4",
+            "presumed_accident_location": "81 km W of Luang Prabang",
+            "country": "Laos",
+            "presumed_area": "land",
+            "date": "December 27, 1971",
+            "nature": "Military",
+            "departure_airport": "Udon Thani air base in Thailand",
+            "intended_destination": "Ban Xieng Lom Airstrip in Laos",
+            "asn_id": "19711227-0",
+            "type": "Fairchild C-123K Provider",
+            "mh370": null,
+            "month_and_day_asn_id": "19711227-0",
+            "month_and_day": "2027-12-01T00:00:00Z",
+            "year": 1971,
+            "cartodb_id": 22,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [3.476045, 37.505631]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Rousseau Aviation",
+            "total_occupants": "30",
+            "presumed_accident_location": "90 km NNE off Algiers",
+            "country": "Algeria",
+            "presumed_area": "sea",
+            "date": "December 31, 1970",
+            "nature": "Int'l Non Scheduled Passenger",
+            "departure_airport": "Algiers-Dar el Beida Airport in Algeria",
+            "intended_destination": "Menorca-Mahón Airport in Spain",
+            "asn_id": "19701231-0",
+            "type": "Nord 262E",
+            "mh370": null,
+            "month_and_day_asn_id": "19701231-0",
+            "month_and_day": "1931-12-01T00:00:00Z",
+            "year": 1970,
+            "cartodb_id": 23,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-68.465441, 14.755566]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Aerocosta Colombia",
+            "total_occupants": "4",
+            "presumed_accident_location": "unknown area",
+            "country": "Caribbean Sea",
+            "presumed_area": "sea",
+            "date": "April 10, 1970",
+            "nature": "Cargo",
+            "departure_airport": "Santa Marta Airport in Colombia",
+            "intended_destination": "Pointe-a-Pitre-Le Raizet Airport in Guadeloupe",
+            "asn_id": "19700410-1",
+            "type": "Curtiss C-46D Commando",
+            "mh370": null,
+            "month_and_day_asn_id": "19700410-1",
+            "month_and_day": "2010-04-01T00:00:00Z",
+            "year": 1970,
+            "cartodb_id": 24,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-65.550224, 19.043619]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "San Juan Air",
+            "total_occupants": "2",
+            "presumed_accident_location": "off San Juan",
+            "country": "Atlantic Ocean",
+            "presumed_area": "sea",
+            "date": "October 11, 1969",
+            "nature": "Ferry/positioning",
+            "departure_airport": "Inagua Airport, Turks and Caicos Islands",
+            "intended_destination": "unknown airport",
+            "asn_id": "19691011-1",
+            "type": "Britten-Norman BN-2A Islander",
+            "mh370": null,
+            "month_and_day_asn_id": "19691011-1",
+            "month_and_day": "2011-10-01T00:00:00Z",
+            "year": 1969,
+            "cartodb_id": 25,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-114.31681, 29.368162]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Executive Aviation",
+            "total_occupants": "10",
+            "presumed_accident_location": "within Baja",
+            "country": "Mexico",
+            "presumed_area": "land",
+            "date": "December 20, 1966",
+            "nature": "Demonstration",
+            "departure_airport": "San Diego International Airport in California",
+            "intended_destination": "La Paz Airport in Mexico",
+            "asn_id": "19661220-0",
+            "type": "Lockheed 18 Lodestar",
+            "mh370": null,
+            "month_and_day_asn_id": "19661220-0",
+            "month_and_day": "2020-12-01T00:00:00Z",
+            "year": 1966,
+            "cartodb_id": 26,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-4.384936, 64.24046]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Soviet Air Force",
+            "total_occupants": "23",
+            "presumed_accident_location": "unknown area",
+            "country": "North Atlantic",
+            "presumed_area": "sea",
+            "date": "July 18, 1970",
+            "nature": "Cargo",
+            "departure_airport": "Keflavík International Airport in Iceland",
+            "intended_destination": "Sydney Airport in Australia",
+            "asn_id": "19700718-0",
+            "type": "Antonov 22",
+            "mh370": null,
+            "month_and_day_asn_id": "19700718-0",
+            "month_and_day": "2018-07-01T00:00:00Z",
+            "year": 1970,
+            "cartodb_id": 27,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-130.253747, 33.450016]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Thai Government",
+            "total_occupants": "3",
+            "presumed_accident_location": "840 km off U.S. coast",
+            "country": "Pacific Ocean",
+            "presumed_area": "sea",
+            "date": "July 25, 1966",
+            "nature": "Ferry/positioning",
+            "departure_airport": "San Francisco International Airport in California",
+            "intended_destination": "Honolulu International Airport in Hawaii",
+            "asn_id": "19660725-1",
+            "type": "Douglas DC-3-362",
+            "mh370": null,
+            "month_and_day_asn_id": "19660725-1",
+            "month_and_day": "2025-07-01T00:00:00Z",
+            "year": 1966,
+            "cartodb_id": 28,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [107.492606, 15.851936]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "7",
+            "presumed_accident_location": "near A Roh",
+            "country": "Vietnam",
+            "presumed_area": "land",
+            "date": "March 13, 1966",
+            "nature": "Military",
+            "departure_airport": "Da Nang Airport",
+            "intended_destination": "Da Nang Airport, within Vietnam",
+            "asn_id": "19660313-0",
+            "type": "Douglas AC-47D Spooky",
+            "mh370": null,
+            "month_and_day_asn_id": "19660313-0",
+            "month_and_day": "2013-03-01T00:00:00Z",
+            "year": 1966,
+            "cartodb_id": 29,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [107.514218, 21.508697]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "4",
+            "presumed_accident_location": "16 km from Khe Sanh",
+            "country": "Vietnam",
+            "presumed_area": "land",
+            "date": "February 3, 1966",
+            "nature": "Military",
+            "departure_airport": "Khe Sanh",
+            "intended_destination": "Dong Ha Air Base, within Vietnam",
+            "asn_id": "19660203-0",
+            "type": "Fairchild C-123B Provider",
+            "mh370": null,
+            "month_and_day_asn_id": "19660203-0",
+            "month_and_day": "2003-02-01T00:00:00Z",
+            "year": 1966,
+            "cartodb_id": 30,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [105.51191, 20.810282]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "ICSC",
+            "total_occupants": "13",
+            "presumed_accident_location": "near Hanoi",
+            "country": "Vietnam",
+            "presumed_area": "land",
+            "date": "October 18,1965",
+            "nature": "Int'l Non Scheduled Passenger",
+            "departure_airport": "Vientiane-Wattay Airport in Laos",
+            "intended_destination": "Hanoi-Gia Lam Airport in Vietnam",
+            "asn_id": "19651018-0",
+            "type": "Boeing SA.307 Stratoliner ",
+            "mh370": null,
+            "month_and_day_asn_id": "19651018-0",
+            "month_and_day": "2018-10-01T00:00:00Z",
+            "year": 1965,
+            "cartodb_id": 31,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [105.794037, 19.837795]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "8",
+            "presumed_accident_location": "Thanh Hoa Bridge, Song Ma River",
+            "country": "Vietnam",
+            "presumed_area": "sea",
+            "date": "May 31, 1966",
+            "nature": "Military",
+            "departure_airport": "Da Nang Airport",
+            "intended_destination": "Da Nang Airport, within Vietnam",
+            "asn_id": "19660531-0",
+            "type": "Lockheed C-130E Hercules",
+            "mh370": null,
+            "month_and_day_asn_id": "19660531-0",
+            "month_and_day": "1931-05-01T00:00:00Z",
+            "year": 1966,
+            "cartodb_id": 32,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-169.524489, 21.056065]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "9",
+            "presumed_accident_location": "1200 km W off Hawaii",
+            "country": "Pacific Ocean",
+            "presumed_area": "sea",
+            "date": "January 2, 1964",
+            "nature": "Military",
+            "departure_airport": "Wake Island Airport",
+            "intended_destination": "Honolulu-Hickam air force base in Hawaii",
+            "asn_id": "19640102-0",
+            "type": "Douglas C-124C Globemaster II",
+            "mh370": null,
+            "month_and_day_asn_id": "19640102-0",
+            "month_and_day": "2002-01-01T00:00:00Z",
+            "year": 1964,
+            "cartodb_id": 33,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-63.600609, 19.224474]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Air Haiti International",
+            "total_occupants": "3",
+            "presumed_accident_location": "E off Puerto Rico",
+            "country": "Caribbean Sea",
+            "presumed_area": "sea",
+            "date": "November 11, 1961",
+            "nature": "Cargo",
+            "departure_airport": "San Juan airport",
+            "intended_destination": "Managua Airport in Nicaragua",
+            "asn_id": "19611111-0",
+            "type": "Lockheed L-749A Constellation",
+            "mh370": null,
+            "month_and_day_asn_id": "19611111-0",
+            "month_and_day": "2011-11-01T00:00:00Z",
+            "year": 1961,
+            "cartodb_id": 34,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-135.284818, 37.849717]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Facilities Management Corp.",
+            "total_occupants": "9",
+            "presumed_accident_location": "1120 km W of San Fransisco",
+            "country": "CA",
+            "presumed_area": "sea",
+            "date": "March 28, 1964",
+            "nature": "Executive",
+            "departure_airport": "Honolulu International Airport in Hawaii",
+            "intended_destination": "Los Angeles International Airport",
+            "asn_id": "19640328-0",
+            "type": "Douglas C-54A (DC-4)",
+            "mh370": null,
+            "month_and_day_asn_id": "19640328-0",
+            "month_and_day": "2028-03-01T00:00:00Z",
+            "year": 1964,
+            "cartodb_id": 35,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-58.286151, 38.574816]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "10",
+            "presumed_accident_location": "1440 km E off Cape May, NJ",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "September 22,1963",
+            "nature": "Military",
+            "departure_airport": "Dover air force base in Delaware",
+            "intended_destination": "Terceira-Lajes Airport in the Azores",
+            "asn_id": "19630922-0",
+            "type": "Douglas C-133A Cargomaster",
+            "mh370": null,
+            "month_and_day_asn_id": "19630922-0",
+            "month_and_day": "2022-09-01T00:00:00Z",
+            "year": 1963,
+            "cartodb_id": 36,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [179.693075, 32.947388]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Flying Tiger Line",
+            "total_occupants": "107",
+            "presumed_accident_location": "unknown area",
+            "country": "Pacific Ocean",
+            "presumed_area": "sea",
+            "date": "March 16, 1962",
+            "nature": "Int'l Non Scheduled Passenger",
+            "departure_airport": "Guam-Agana naval air station",
+            "intended_destination": "Clark air base near Los Angeles",
+            "asn_id": "19620316-1",
+            "type": "Lockheed L-1049H Super Constellation",
+            "mh370": null,
+            "month_and_day_asn_id": "19620316-1",
+            "month_and_day": "2016-03-01T00:00:00Z",
+            "year": 1962,
+            "cartodb_id": 37,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [54.048947, 25.61721]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Gulf Aviation",
+            "total_occupants": "16",
+            "presumed_accident_location": "off Sharjah",
+            "country": "United Arab Emirates",
+            "presumed_area": "sea",
+            "date": "July 10, 1960",
+            "nature": "International Scheduled Passenger",
+            "departure_airport": "Doha Airport in Qatar",
+            "intended_destination": "Sharjah Airport, UAE",
+            "asn_id": "19600710-0",
+            "type": "Douglas C-47-DL (DC-3)",
+            "mh370": null,
+            "month_and_day_asn_id": "19600710-0",
+            "month_and_day": "2010-07-01T00:00:00Z",
+            "year": 1960,
+            "cartodb_id": 38,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.188249, -4.941567]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Garuda Indonesia Airways",
+            "total_occupants": "26",
+            "presumed_accident_location": "off Madura Island",
+            "country": "Indonesia",
+            "presumed_area": "sea",
+            "date": "February 3, 1961",
+            "nature": "Domestic Scheduled Passenger",
+            "departure_airport": "Surabaya-Juanda Airport",
+            "intended_destination": "Balikpapan-Sepingan Airport, within Indonesia",
+            "asn_id": "19610203-1",
+            "type": "Douglas C-47A (DC-3)",
+            "mh370": null,
+            "month_and_day_asn_id": "19610203-1",
+            "month_and_day": "2003-02-01T00:00:00Z",
+            "year": 1961,
+            "cartodb_id": 39,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [17.733813, 32.261957]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Army",
+            "total_occupants": "10",
+            "presumed_accident_location": "Gulf of Sirte",
+            "country": "Libya",
+            "presumed_area": "sea",
+            "date": "January 4, 1960",
+            "nature": "Military",
+            "departure_airport": "Misrata Airport",
+            "intended_destination": "Benghazi-Benina International Airport, within Libya",
+            "asn_id": "19600104-1",
+            "type": "de Havilland Canada U-1A Otter",
+            "mh370": null,
+            "month_and_day_asn_id": "19600104-1",
+            "month_and_day": "2004-01-01T00:00:00Z",
+            "year": 1960,
+            "cartodb_id": 40,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-161.632021, 7.218131]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "7",
+            "presumed_accident_location": "600 km SW off Honolulu",
+            "country": "Hawaii",
+            "presumed_area": "sea",
+            "date": "January 19, 1958",
+            "nature": "Military",
+            "departure_airport": "Honolulu-Hickam air force base in Hawaii",
+            "intended_destination": "Wake Island Airport",
+            "asn_id": "19580119-0",
+            "type": "Boeing C-97A Stratofreighter",
+            "mh370": null,
+            "month_and_day_asn_id": "19580119-0",
+            "month_and_day": "2019-01-01T00:00:00Z",
+            "year": 1958,
+            "cartodb_id": 41,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-11.387167, 37.295003]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "ARTOP",
+            "total_occupants": "36",
+            "presumed_accident_location": "ca 250 km SW of Lisbon",
+            "country": "Portugal",
+            "presumed_area": "sea",
+            "date": "November 9, 1958",
+            "nature": "Domestic Scheduled Passenger",
+            "departure_airport": "Cabo Ruivo, Portugal",
+            "intended_destination": "Funchal Airport",
+            "asn_id": "19581109-0",
+            "type": "Martin PBM-5 Mariner",
+            "mh370": null,
+            "month_and_day_asn_id": "19581109-0",
+            "month_and_day": "2009-11-01T00:00:00Z",
+            "year": 1958,
+            "cartodb_id": 42,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-66.509059, -14.416848]
+        },
+        "properties": {
+            "phase": "Unknown",
+            "operator": "Transporte Aéreo Militar",
+            "total_occupants": "3",
+            "presumed_accident_location": "San Borja",
+            "country": "Bolivia",
+            "presumed_area": "land",
+            "date": "November 8, 1958",
+            "nature": "Cargo",
+            "departure_airport": "San Borja-Capitan G.Q. Guardia Airport",
+            "intended_destination": "La Paz-El Alto Airport, within Bolivia",
+            "asn_id": "19581108-0",
+            "type": "Douglas DC-3",
+            "mh370": null,
+            "month_and_day_asn_id": "19581108-0",
+            "month_and_day": "2008-11-01T00:00:00Z",
+            "year": 1958,
+            "cartodb_id": 43,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-48.356697, 52.684329]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Skyways",
+            "total_occupants": "39",
+            "presumed_accident_location": "ca 500 km E off Newfoudland",
+            "country": "Canada",
+            "presumed_area": "sea",
+            "date": "February 2, 1953",
+            "nature": "Int'l Non Scheduled Passenger",
+            "departure_airport": "Terceira-Lajes Airport in the Azores",
+            "intended_destination": "Gander Airport in Canada",
+            "asn_id": "19530202-0",
+            "type": "Avro 685 York I",
+            "mh370": null,
+            "month_and_day_asn_id": "19530202-0",
+            "month_and_day": "2002-02-01T00:00:00Z",
+            "year": 1953,
+            "cartodb_id": 44,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.881478, 28.346003]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Rutas Aéreas Nacionales SA",
+            "total_occupants": "3",
+            "presumed_accident_location": "off Miami, Florida",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "December 21, 1952",
+            "nature": "Unknown",
+            "departure_airport": "unknown airport",
+            "intended_destination": "Miami International Airport in Florida",
+            "asn_id": "19521221-0",
+            "type": "Curtiss C-46D Commando",
+            "mh370": null,
+            "month_and_day_asn_id": "19521221-0",
+            "month_and_day": "2021-12-01T00:00:00Z",
+            "year": 1952,
+            "cartodb_id": 45,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.107029, 11.523687]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "AVENSA",
+            "total_occupants": "4",
+            "presumed_accident_location": "Gulf of Venezuela",
+            "country": "Atlantic Ocean",
+            "presumed_area": "sea",
+            "date": "September 5, 1955",
+            "nature": "Unknown",
+            "departure_airport": "Caracas-Maiquetía Airport in Venezuela",
+            "intended_destination": "unknown airport",
+            "asn_id": "19550905-1",
+            "type": "Curtiss C-46",
+            "mh370": null,
+            "month_and_day_asn_id": "19550905-1",
+            "month_and_day": "2005-09-01T00:00:00Z",
+            "year": 1955,
+            "cartodb_id": 46,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-152.591414, 59.642583]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "20",
+            "presumed_accident_location": "between Anchorage and Kodiak, Alaska",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "November 15, 1952",
+            "nature": "Military",
+            "departure_airport": "Anchorage-Elmendorf air force base",
+            "intended_destination": "Kodiak naval air station, within Alaska",
+            "asn_id": "19521115-0",
+            "type": "Fairchild C-119C Flying Boxcar",
+            "mh370": null,
+            "month_and_day_asn_id": "19521115-0",
+            "month_and_day": "2015-11-01T00:00:00Z",
+            "year": 1952,
+            "cartodb_id": 47,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-35.423403, 39.445749]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "12",
+            "presumed_accident_location": "unknown area",
+            "country": "North Atlantic",
+            "presumed_area": "sea",
+            "date": "October 15, 1951",
+            "nature": "Military",
+            "departure_airport": "Terceira-Lajes Airport in the Azores",
+            "intended_destination": "Springfield-Westover air force base, Massachusetts",
+            "asn_id": "19511015-1",
+            "type": "Boeing C-97A Stratofreighter",
+            "mh370": null,
+            "month_and_day_asn_id": "19511015-1",
+            "month_and_day": "2015-10-01T00:00:00Z",
+            "year": 1951,
+            "cartodb_id": 48,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.157852, 9.367755]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "PARSA",
+            "total_occupants": "1",
+            "presumed_accident_location": "unknown area",
+            "country": "Panama",
+            "presumed_area": "sea",
+            "date": "December 29, 2002",
+            "nature": "Ferry/positioning",
+            "departure_airport": "Bocas Del Toro Airport",
+            "intended_destination": "Marcos A. Gelabert International Airport, within Panama",
+            "asn_id": "20021229-0",
+            "type": "Britten-Norman BN-2A-7 Islander",
+            "mh370": null,
+            "month_and_day_asn_id": "20021229-0",
+            "month_and_day": "2029-12-01T00:00:00Z",
+            "year": 2002,
+            "cartodb_id": 49,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-58.887095, 4.110897]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Air Services",
+            "total_occupants": "2",
+            "presumed_accident_location": "unknown area",
+            "country": "Guyana",
+            "presumed_area": "land",
+            "date": "December 28, 2014",
+            "nature": "Cargo",
+            "departure_airport": "Mahdia Airport",
+            "intended_destination": "Karisparu Airport, within Guyana",
+            "asn_id": "20141228-1",
+            "type": "Britten-Norman BN-2A-6 Islander",
+            "mh370": null,
+            "month_and_day_asn_id": "20141228-1",
+            "month_and_day": "2028-12-01T00:00:00Z",
+            "year": 2014,
+            "cartodb_id": 50,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.611696, -8.230943]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Grupo Chicoil",
+            "total_occupants": "3",
+            "presumed_accident_location": "near Caxito",
+            "country": "Angola",
+            "presumed_area": "land",
+            "date": "May 21, 2010",
+            "nature": "Executive",
+            "departure_airport": "Pointe Noire Airport, Congo",
+            "intended_destination": "Luanda Airport in Angola",
+            "asn_id": "20100521-0",
+            "type": "Beechcraft 200 Super King Air",
+            "mh370": null,
+            "month_and_day_asn_id": "20100521-0",
+            "month_and_day": "2021-05-01T00:00:00Z",
+            "year": 2010,
+            "cartodb_id": 51,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [159.250925, -11.192414]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Solomon Islands Airlines",
+            "total_occupants": "11",
+            "presumed_accident_location": "off Bellona Island",
+            "country": "Solomon Islands",
+            "presumed_area": "sea",
+            "date": "October 22, 1978",
+            "nature": "Domestic Scheduled Passenger",
+            "departure_airport": "Bellona Airport",
+            "intended_destination": "Honiara-Henderson International Airport in the Solomon Islands",
+            "asn_id": "19781022-1",
+            "type": "IRMA/Britten-Norman BN-2A Islander",
+            "mh370": null,
+            "month_and_day_asn_id": "19781022-1",
+            "month_and_day": "2022-10-01T00:00:00Z",
+            "year": 1978,
+            "cartodb_id": 52,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-125.270415, 51.360062]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Wilderness Airline",
+            "total_occupants": "4",
+            "presumed_accident_location": "near Mount Waddington, British Columbia",
+            "country": "Canada",
+            "presumed_area": "land",
+            "date": "December 4, 1987",
+            "nature": "Domestic Scheduled Passenger",
+            "departure_airport": "Bella Coola Airport",
+            "intended_destination": "Campbell River Airport within Canada",
+            "asn_id": "19871204-0",
+            "type": "Britten-Norman BN-2A-6 Islander",
+            "mh370": null,
+            "month_and_day_asn_id": "19871204-0",
+            "month_and_day": "2004-12-01T00:00:00Z",
+            "year": 1987,
+            "cartodb_id": 53,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [130.914282, 35.865314]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "4",
+            "presumed_accident_location": "Sea of Japan",
+            "country": "Pacific Ocean",
+            "presumed_area": "sea",
+            "date": "October 15, 1950",
+            "nature": "Military",
+            "departure_airport": "Seoul-Gimpo (Kimpo) International Airport in South Korea",
+            "intended_destination": "Brady air force base, Japan",
+            "asn_id": "19501015-0",
+            "type": "Douglas C-47A (DC-3)",
+            "mh370": null,
+            "month_and_day_asn_id": "19501015-0",
+            "month_and_day": "2015-10-01T00:00:00Z",
+            "year": 1950,
+            "cartodb_id": 54,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.71202, 4.58819]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Fuerza Aérea Colombiana",
+            "total_occupants": "4",
+            "presumed_accident_location": "near Cali",
+            "country": "Colombia",
+            "presumed_area": "land",
+            "date": "February 6, 1950",
+            "nature": "Military",
+            "departure_airport": "Albrook air force base in Panama",
+            "intended_destination": "Cali Airport in Colombia",
+            "asn_id": "19500206-0",
+            "type": "Douglas C-47 (DC-3)",
+            "mh370": null,
+            "month_and_day_asn_id": "19500206-0",
+            "month_and_day": "2006-02-01T00:00:00Z",
+            "year": 1950,
+            "cartodb_id": 55,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-39.445227, -20.37737]
+        },
+        "properties": {
+            "phase": "Unknown",
+            "operator": "Aerovias Brasil",
+            "total_occupants": "6",
+            "presumed_accident_location": "near Vitoria, ES",
+            "country": "Brazil",
+            "presumed_area": "sea",
+            "date": "December 19, 1949",
+            "nature": "Training",
+            "departure_airport": "Vitória-Goiabeiras Airport",
+            "intended_destination": "Vitória-Goiabeiras Airport, within Brazil",
+            "asn_id": "19491219-0",
+            "type": "Douglas C-47A Dakota III",
+            "mh370": null,
+            "month_and_day_asn_id": "19491219-0",
+            "month_and_day": "2019-12-01T00:00:00Z",
+            "year": 1949,
+            "cartodb_id": 56,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [122.336584, 12.181321]
+        },
+        "properties": {
+            "phase": "Unknown",
+            "operator": "Philippine Air Lines",
+            "total_occupants": "4",
+            "presumed_accident_location": "near Iloilo",
+            "country": "Philippines",
+            "presumed_area": "sea",
+            "date": "January 24, 1950",
+            "nature": "Cargo",
+            "departure_airport": "Iloilo-Mandurriao Airport",
+            "intended_destination": "Manila International Airport, within the Philippines",
+            "asn_id": "19500124-0",
+            "type": "Douglas DC-3",
+            "mh370": null,
+            "month_and_day_asn_id": "19500124-0",
+            "month_and_day": "2024-01-01T00:00:00Z",
+            "year": 1950,
+            "cartodb_id": 57,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-67.053025, 12.100243]
+        },
+        "properties": {
+            "phase": "Unknown",
+            "operator": "AVENSA",
+            "total_occupants": "3",
+            "presumed_accident_location": "off northern coast",
+            "country": "Venezuela",
+            "presumed_area": "sea",
+            "date": "August 20, 1948",
+            "nature": "Cargo",
+            "departure_airport": "La Guaira Airport",
+            "intended_destination": "Las Piedras-Josefa Camejo Airport, within Venezuela",
+            "asn_id": "19480820-0",
+            "type": "Douglas C-47A (DC-3)",
+            "mh370": null,
+            "month_and_day_asn_id": "19480820-0",
+            "month_and_day": "2020-08-01T00:00:00Z",
+            "year": 1948,
+            "cartodb_id": 58,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.182778, 27.424673]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Airborne Transport",
+            "total_occupants": "32",
+            "presumed_accident_location": "off Florida",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "December 28, 1948",
+            "nature": "Domestic Non Scheduled Passenger",
+            "departure_airport": "San Juan-Isla Grande Airport in Puerto Rico",
+            "intended_destination": "Miami International Airport in Florida",
+            "asn_id": "19481228-0",
+            "type": "Douglas DC-3DST-144",
+            "mh370": null,
+            "month_and_day_asn_id": "19481228-0",
+            "month_and_day": "2028-12-01T00:00:00Z",
+            "year": 1948,
+            "cartodb_id": 59,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-137.198591, 57.867981]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Pacific Alaska Air Express",
+            "total_occupants": "17",
+            "presumed_accident_location": "off Cape Spencer, Alaska",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "November 4, 1948",
+            "nature": "Domestic Non Scheduled Passenger",
+            "departure_airport": "Yakutat Airport",
+            "intended_destination": "Annette Island Airport, within Alaska",
+            "asn_id": "19481104-0",
+            "type": "Douglas C-47A (DC-3)",
+            "mh370": null,
+            "month_and_day_asn_id": "19481104-0",
+            "month_and_day": "2004-11-01T00:00:00Z",
+            "year": 1948,
+            "cartodb_id": 60,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-35.05263, 14.707994]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Air France",
+            "total_occupants": "52",
+            "presumed_accident_location": "ca 1900 km W of Dakar",
+            "country": "Senegal",
+            "presumed_area": "sea",
+            "date": "August 1, 1948",
+            "nature": "International Scheduled Passenger",
+            "departure_airport": "Fort de France Hydrobase in Martinique",
+            "intended_destination": "Port-Étienne Airport in Mauritania",
+            "asn_id": "19480801-1",
+            "type": "Latécoère 631",
+            "mh370": null,
+            "month_and_day_asn_id": "19480801-1",
+            "month_and_day": "2001-08-01T00:00:00Z",
+            "year": 1948,
+            "cartodb_id": 61,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [85.881997, 43.517517]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Zhong Fei General Aviation Company",
+            "total_occupants": "3",
+            "presumed_accident_location": "Manas County",
+            "country": "China",
+            "presumed_area": "land",
+            "date": "March 28, 2011",
+            "nature": "Survey/research",
+            "departure_airport": "Korla",
+            "intended_destination": "Korla, within China",
+            "asn_id": "20110328-0",
+            "type": "Cessna 550 Citation II",
+            "mh370": null,
+            "month_and_day_asn_id": "20110328-0",
+            "month_and_day": "2028-03-01T00:00:00Z",
+            "year": 2011,
+            "cartodb_id": 62,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-22.338669, 52.840409]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Superior Oil Corp.",
+            "total_occupants": "2",
+            "presumed_accident_location": "unknown area",
+            "country": "Atlantic Ocean",
+            "presumed_area": "sea",
+            "date": "May 5, 1948",
+            "nature": "Unknown",
+            "departure_airport": "Gander Airport in Canada",
+            "intended_destination": "Shannon Airport in Ireland",
+            "asn_id": "19480505-0",
+            "type": "Douglas C-47A (DC-3)",
+            "mh370": null,
+            "month_and_day_asn_id": "19480505-0",
+            "month_and_day": "2005-05-01T00:00:00Z",
+            "year": 1948,
+            "cartodb_id": 63,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.334363, 44.524639]
+        },
+        "properties": {
+            "phase": "Unknown",
+            "operator": "Cousin Properties",
+            "total_occupants": "5",
+            "presumed_accident_location": "Lake Champlain, New York",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "January 21, 1971",
+            "nature": "Executive",
+            "departure_airport": "Burlington International Airport, Vermont",
+            "intended_destination": "Providence Airport, Rhode Island",
+            "asn_id": "19710121-2",
+            "type": "Rockwell 1121 Jet Commander",
+            "mh370": null,
+            "month_and_day_asn_id": "19710121-2",
+            "month_and_day": "2021-01-01T00:00:00Z",
+            "year": 1971,
+            "cartodb_id": 64,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-121.665435, 31.041176]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Navy",
+            "total_occupants": "8",
+            "presumed_accident_location": "off California",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "May 26, 1972",
+            "nature": "Military",
+            "departure_airport": "Moffett Field",
+            "intended_destination": "Moffett Field, within California",
+            "asn_id": "19720526-1",
+            "type": "Lockheed P-3A-50-LO Orion",
+            "mh370": null,
+            "month_and_day_asn_id": "19720526-1",
+            "month_and_day": "2026-05-01T00:00:00Z",
+            "year": 1972,
+            "cartodb_id": 65,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [100.461752, 3.340435]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Upali Air",
+            "total_occupants": "6",
+            "presumed_accident_location": "ca 20 km off Kuala Selangor, Straits of Malacca",
+            "country": "Malaysia",
+            "presumed_area": "sea",
+            "date": "February 13, 1983",
+            "nature": "Executive",
+            "departure_airport": "Kuala Lumpur Subang International Airport",
+            "intended_destination": "Colombo-Katunayake International Airport in Sri Lanka",
+            "asn_id": "19830213-0",
+            "type": "Learjet 35A",
+            "mh370": null,
+            "month_and_day_asn_id": "19830213-0",
+            "month_and_day": "2013-02-01T00:00:00Z",
+            "year": 1983,
+            "cartodb_id": 66,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [12.884689, 33.757682]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Libyan Government",
+            "total_occupants": "2",
+            "presumed_accident_location": "near Tripoli",
+            "country": "Libya",
+            "presumed_area": "sea",
+            "date": "January 16, 1983",
+            "nature": "Official state flight",
+            "departure_airport": "Tripoli-Okba Ben Nafi air base in Libya",
+            "intended_destination": "Houari Boumediene Airport in Algeria",
+            "asn_id": "19830116-2",
+            "type": "Lockheed L-1329-25 JetStar II",
+            "mh370": null,
+            "month_and_day_asn_id": "19830116-2",
+            "month_and_day": "2016-01-01T00:00:00Z",
+            "year": 1983,
+            "cartodb_id": 67,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [106.879925, 18.005082]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "7",
+            "presumed_accident_location": "ca 64 km off Dong Hoi, Gulf of Tonkin",
+            "country": "Vietnam",
+            "presumed_area": "sea",
+            "date": "October 18, 1966",
+            "nature": "Military",
+            "departure_airport": "Da Nang Airport",
+            "intended_destination": "Da Nang Airport, within Vietnam",
+            "asn_id": "19661018-0",
+            "type": "Grumman HU-16B Albatross",
+            "mh370": null,
+            "month_and_day_asn_id": "19661018-0",
+            "month_and_day": "2018-10-01T00:00:00Z",
+            "year": 1966,
+            "cartodb_id": 68,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-90.408135, 25.220267]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Coast Guard",
+            "total_occupants": "6",
+            "presumed_accident_location": "Gulf of Mexico",
+            "country": "Atlantic Ocean",
+            "presumed_area": "sea",
+            "date": "March 5, 1967",
+            "nature": "Military",
+            "departure_airport": "St. Petersburg International Airport in Florida",
+            "intended_destination": "unknown airport",
+            "asn_id": "19670305-3",
+            "type": "Grumman HU-16E Albatross",
+            "mh370": null,
+            "month_and_day_asn_id": "19670305-3",
+            "month_and_day": "2005-03-01T00:00:00Z",
+            "year": 1967,
+            "cartodb_id": 69,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.188024, 39.706416]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Navy",
+            "total_occupants": "22",
+            "presumed_accident_location": "176 km W off Ilha do Corvo",
+            "country": "in the Azores",
+            "presumed_area": "sea",
+            "date": "February 20, 1958",
+            "nature": "Military",
+            "departure_airport": "Argentia naval air station in Canada",
+            "intended_destination": "Terceira-Lajes Airport in the Azores",
+            "asn_id": "19580220-0",
+            "type": "Lockheed WV-2 Super Constellation",
+            "mh370": null,
+            "month_and_day_asn_id": "19580220-0",
+            "month_and_day": "2020-02-01T00:00:00Z",
+            "year": 1958,
+            "cartodb_id": 70,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.434091, 14.620206]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Navy",
+            "total_occupants": "12",
+            "presumed_accident_location": "Caribbean Sea",
+            "country": "Atlantic Ocean",
+            "presumed_area": "sea",
+            "date": "May 9, 1948",
+            "nature": "Military",
+            "departure_airport": "Roosevelt naval air station in Puerto Rico",
+            "intended_destination": "Key West naval air station in Florida",
+            "asn_id": "19480509-1",
+            "type": "Consolidated PBY-6A Catalina",
+            "mh370": null,
+            "month_and_day_asn_id": "19480509-1",
+            "month_and_day": "2009-05-01T00:00:00Z",
+            "year": 1948,
+            "cartodb_id": 71,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-9.601723, 51.302331]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Royal Air Force",
+            "total_occupants": "9",
+            "presumed_accident_location": "S off Fastnet Rock",
+            "country": "Ireland",
+            "presumed_area": "sea",
+            "date": "January 11, 1955",
+            "nature": "Military",
+            "departure_airport": "St Eval RAF Station",
+            "intended_destination": "St Eval RAF Station in Cornwall",
+            "asn_id": "19550111-0",
+            "type": "Avro Shackleton MR.2",
+            "mh370": null,
+            "month_and_day_asn_id": "19550111-0",
+            "month_and_day": "2011-01-01T00:00:00Z",
+            "year": 1955,
+            "cartodb_id": 72,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [94.932774, -31.69584]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Malaysia Airlines (MH370)",
+            "total_occupants": "239",
+            "presumed_accident_location": "somewhere in the Indian Ocean",
+            "country": "Indian Ocean",
+            "presumed_area": "sea",
+            "date": "March 8, 2014",
+            "nature": "International Scheduled Passenger",
+            "departure_airport": "Kuala Lumpur International Airport",
+            "intended_destination": "Beijing, China",
+            "asn_id": "20140308-0",
+            "type": "Boeing 777-2H6ER",
+            "mh370": 1,
+            "month_and_day_asn_id": "20140308-0",
+            "month_and_day": "2008-03-01T00:00:00Z",
+            "year": 2014,
+            "cartodb_id": 73,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-90.062953, 16.946402]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Maria de Jesus Morano",
+            "total_occupants": "2",
+            "presumed_accident_location": "Petén province",
+            "country": "Guatemala",
+            "presumed_area": "land",
+            "date": "February 13, 2006",
+            "nature": "Illegal Flight",
+            "departure_airport": "unknown airport",
+            "intended_destination": "unknown airport",
+            "asn_id": "20060213-0",
+            "type": "Grumman G-159 Gulfstream I",
+            "mh370": 0,
+            "month_and_day_asn_id": "20060213-0",
+            "month_and_day": "2013-02-01T00:00:00Z",
+            "year": 2006,
+            "cartodb_id": 74,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-0.458611, 41.768002]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Kurfiss Aviation",
+            "total_occupants": "2",
+            "presumed_accident_location": "between Madrid, Spain, and Perpigan",
+            "country": "France",
+            "presumed_area": "sea",
+            "date": "October 3, 1980",
+            "nature": "Ferry/positioning",
+            "departure_airport": "Madrid-Cuatro Vientos Airport in Spain",
+            "intended_destination": "Perpignan Airport in France",
+            "asn_id": "19801003-1",
+            "type": "Douglas DC-3",
+            "mh370": 0,
+            "month_and_day_asn_id": "19801003-1",
+            "month_and_day": "2003-10-01T00:00:00Z",
+            "year": 1980,
+            "cartodb_id": 75,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [113.552165, -0.919156]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Bali International Air Service",
+            "total_occupants": "17",
+            "presumed_accident_location": "Tumbang Miri",
+            "country": "Indonesia",
+            "presumed_area": "land",
+            "date": "October 25, 1991",
+            "nature": "Domestic Scheduled Passenger",
+            "departure_airport": "Palangkaraya Airport",
+            "intended_destination": "Sampit Airport, within Indonesia",
+            "asn_id": "19911025-0",
+            "type": "Britten-Norman BN-2A Trislander Mk.III-2",
+            "mh370": 0,
+            "month_and_day_asn_id": "19911025-0",
+            "month_and_day": "2025-10-01T00:00:00Z",
+            "year": 1991,
+            "cartodb_id": 76,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.846529, 0.341753]
+        },
+        "properties": {
+            "phase": "Approach",
+            "operator": "Sahel Air Service",
+            "total_occupants": "1",
+            "presumed_accident_location": "14.5 km off São Tomé Island Airport",
+            "country": "Sao Tome and Principe",
+            "presumed_area": "sea",
+            "date": "April 7, 2013",
+            "nature": "Ferry/positioning",
+            "departure_airport": "Ondangwa Airport in Namibia",
+            "intended_destination": "São Tomé Island Airport",
+            "asn_id": "20130407-0",
+            "type": "Beechcraft 1900C-1",
+            "mh370": 0,
+            "month_and_day_asn_id": "20130407-0",
+            "month_and_day": "2007-04-01T00:00:00Z",
+            "year": 2013,
+            "cartodb_id": 77,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [15.831908, -8.999445]
+        },
+        "properties": {
+            "phase": "Unknown",
+            "operator": "Unknown",
+            "total_occupants": "unknown",
+            "presumed_accident_location": "unknown area",
+            "country": "Angola",
+            "presumed_area": "land",
+            "date": "January 7, 2000",
+            "nature": "Unknown",
+            "departure_airport": "Luanda de Fevereiro Airport",
+            "intended_destination": "Cafunfo Airport, within Angola",
+            "asn_id": "20000107-0",
+            "type": "Antonov 26",
+            "mh370": 0,
+            "month_and_day_asn_id": "20000107-0",
+            "month_and_day": "2007-01-01T00:00:00Z",
+            "year": 2000,
+            "cartodb_id": 78,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.795746, 21.946445]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Línea Aérea Puertorriqueña",
+            "total_occupants": "12",
+            "presumed_accident_location": "Caribbean Sea, off Turks and Caicos Islands",
+            "country": "Atlantic Ocean",
+            "presumed_area": "sea",
+            "date": "December 15, 2008",
+            "nature": "Domestic Non Scheduled Passenger",
+            "departure_airport": "Cibao International Airport in the Dominican Republic",
+            "intended_destination": "Mayaguana Airport in the Bahamas",
+            "asn_id": "20081215-0",
+            "type": "Britten-Norman BN-2A Trislander Mk.III-2",
+            "mh370": 0,
+            "month_and_day_asn_id": "20081215-0",
+            "month_and_day": "2015-12-01T00:00:00Z",
+            "year": 2008,
+            "cartodb_id": 79,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [141.877785, 36.324954]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Varig",
+            "total_occupants": "6",
+            "presumed_accident_location": "200km ENE off Tokyo",
+            "country": "Japan",
+            "presumed_area": "sea",
+            "date": "January 30, 1979",
+            "nature": "Cargo",
+            "departure_airport": "Tokyo-Narita Airport in Japan",
+            "intended_destination": "Galeão International Airport in Brazil",
+            "asn_id": "19790130-0",
+            "type": "Boeing 707-323C",
+            "mh370": 0,
+            "month_and_day_asn_id": "19790130-0",
+            "month_and_day": "1930-01-01T00:00:00Z",
+            "year": 1979,
+            "cartodb_id": 80,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [28.311805, -1.46814]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Stellavia",
+            "total_occupants": "1",
+            "presumed_accident_location": "near Walikale",
+            "country": "DR Congo",
+            "presumed_area": "land",
+            "date": "February 15, 2007",
+            "nature": "Cargo",
+            "departure_airport": "Goma International Airport",
+            "intended_destination": "Walikale Airstrip, within DR Congo",
+            "asn_id": "20070215-1",
+            "type": "Cessna 208B Grand Caravan",
+            "mh370": 0,
+            "month_and_day_asn_id": "20070215-1",
+            "month_and_day": "2015-02-01T00:00:00Z",
+            "year": 2007,
+            "cartodb_id": 81,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.517056, -5.516883]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Carson Helicopters",
+            "total_occupants": "3",
+            "presumed_accident_location": "near Bagua",
+            "country": "Peru",
+            "presumed_area": "land",
+            "date": "March 9, 1996",
+            "nature": "Survey/research",
+            "departure_airport": "Bagua Airport",
+            "intended_destination": "Bagua Airport, within Peru",
+            "asn_id": "19960309-1",
+            "type": "de Havilland Canada DHC-6 Twin Otter 200",
+            "mh370": 0,
+            "month_and_day_asn_id": "19960309-1",
+            "month_and_day": "2009-03-01T00:00:00Z",
+            "year": 1996,
+            "cartodb_id": 82,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [119.766459, -8.744795]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Merpati Nusantara Airlines",
+            "total_occupants": "14",
+            "presumed_accident_location": "Molo Strait",
+            "country": "Indonesia",
+            "presumed_area": "sea",
+            "date": "January 10, 1995",
+            "nature": "Domestic Scheduled Passenger",
+            "departure_airport": "Bima Airport",
+            "intended_destination": "Ruteng Airport, within Indonesia",
+            "asn_id": "19950110-0",
+            "type": "de Havilland Canada DHC-6 Twin Otter 300",
+            "mh370": 0,
+            "month_and_day_asn_id": "19950110-0",
+            "month_and_day": "2010-01-01T00:00:00Z",
+            "year": 1995,
+            "cartodb_id": 83,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-61.304945, 13.081602]
+        },
+        "properties": {
+            "phase": "Approach",
+            "operator": "Leeward Islands Air Transport",
+            "total_occupants": "13",
+            "presumed_accident_location": "SW off St Vincent",
+            "country": "St Vincent and the Grenadines",
+            "presumed_area": "sea",
+            "date": "August 4,1986",
+            "nature": "International Scheduled Passenger",
+            "departure_airport": "Hewanorra International Airport on St Lucia",
+            "intended_destination": "Arnos Vale Airport on St Vincent",
+            "asn_id": "19860804-0",
+            "type": "de Havilland Canada DHC-6 Twin Otter 310",
+            "mh370": 0,
+            "month_and_day_asn_id": "19860804-0",
+            "month_and_day": "2004-08-01T00:00:00Z",
+            "year": 1986,
+            "cartodb_id": 84,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [98.201109, 3.795378]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Pan Malaysian Air Transport",
+            "total_occupants": "14",
+            "presumed_accident_location": "within Northern Sumatra",
+            "country": "Indonesia",
+            "presumed_area": "land",
+            "date": "January 31,1993",
+            "nature": "Domestic Non Scheduled Passenger",
+            "departure_airport": "Polonia International Airport",
+            "intended_destination": "Sultan Iskandar Muda International Airport, within Indonesia",
+            "asn_id": "19930131-1",
+            "type": "Shorts SC.7 Skyvan 3",
+            "mh370": 0,
+            "month_and_day_asn_id": "19930131-1",
+            "month_and_day": "1931-01-01T00:00:00Z",
+            "year": 1993,
+            "cartodb_id": 85,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.3304, 6.416692]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "LAC Colombia",
+            "total_occupants": "3",
+            "presumed_accident_location": "Sierra Cucuy",
+            "country": "Colombia",
+            "presumed_area": "land",
+            "date": "December 8, 1978",
+            "nature": "Cargo",
+            "departure_airport": "Bogotá-Eldorado Airport in Colombia",
+            "intended_destination": "Trinidad Airport",
+            "asn_id": "19781208-1",
+            "type": "Douglas DC-6A/B",
+            "mh370": 0,
+            "month_and_day_asn_id": "19781208-1",
+            "month_and_day": "2008-12-01T00:00:00Z",
+            "year": 1978,
+            "cartodb_id": 86,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.854799, 24.921851]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Argosy Airlines",
+            "total_occupants": "4",
+            "presumed_accident_location": "off Fort Lauderdale, FL",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "September 21, 1978",
+            "nature": "Ferry/positioning",
+            "departure_airport": "Fort Lauderdale International Airport in Florida",
+            "intended_destination": "José Martí International Airport in Cuba",
+            "asn_id": "19780921-0",
+            "type": "Douglas DC-3",
+            "mh370": 0,
+            "month_and_day_asn_id": "19780921-0",
+            "month_and_day": "2021-09-01T00:00:00Z",
+            "year": 1978,
+            "cartodb_id": 87,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [50.15819, 39.767175]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Aeroflot",
+            "total_occupants": "33",
+            "presumed_accident_location": "South off Baku",
+            "country": "Azerbaijan",
+            "presumed_area": "sea",
+            "date": "April 23, 1966",
+            "nature": "Domestic Scheduled Passenger",
+            "departure_airport": "Baku-Bina International Airport in Azerbaijan",
+            "intended_destination": "Makhachkala Airport in Dagestan",
+            "asn_id": "19660423-1",
+            "type": "Ilyushin 14",
+            "mh370": null,
+            "month_and_day_asn_id": "19660423-1",
+            "month_and_day": "2023-04-01T00:00:00Z",
+            "year": 1966,
+            "cartodb_id": 88,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-44.91333, 37.874939]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "23",
+            "presumed_accident_location": "unknown area",
+            "country": "Atlantic Ocean",
+            "presumed_area": "sea",
+            "date": "January 26, 1961",
+            "nature": "Military",
+            "departure_airport": "Terceira-Lajes Airport in the Azores",
+            "intended_destination": "Argentia naval air station in Canada",
+            "asn_id": "19610126-1",
+            "type": "Douglas C-118A (DC-6)",
+            "mh370": null,
+            "month_and_day_asn_id": "19610126-1",
+            "month_and_day": "2026-01-01T00:00:00Z",
+            "year": 1961,
+            "cartodb_id": 89,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-65.801846, -15.596661]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Transporte Aéreo Militar",
+            "total_occupants": "24",
+            "presumed_accident_location": "between Santa Rosa and La Paz",
+            "country": "Bolivia",
+            "presumed_area": "land",
+            "date": "January 10, 1974",
+            "nature": "Domestic Non Scheduled Passenger",
+            "departure_airport": "Santa Rosa Airport",
+            "intended_destination": "La Paz-El Alto Airport, within Bolivia",
+            "asn_id": "19740110-0",
+            "type": "Douglas DC-4",
+            "mh370": 0,
+            "month_and_day_asn_id": "19740110-0",
+            "month_and_day": "2010-01-01T00:00:00Z",
+            "year": 1974,
+            "cartodb_id": 90,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [108.703936, 15.300718]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Air Vietnam",
+            "total_occupants": "27",
+            "presumed_accident_location": "20 km NNW off Quang-Ngai",
+            "country": "Vietnam",
+            "presumed_area": "land",
+            "date": "November 17, 1973",
+            "nature": "Domestic Scheduled Passenger",
+            "departure_airport": "Saigon-Tan Son Nhat International Airport",
+            "intended_destination": "Quang Ngai Airport, within Vietnam",
+            "asn_id": "19731117-0",
+            "type": "Douglas DC-3",
+            "mh370": 0,
+            "month_and_day_asn_id": "19731117-0",
+            "month_and_day": "2017-11-01T00:00:00Z",
+            "year": 1973,
+            "cartodb_id": 91,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.765673, 24.24717]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "9",
+            "presumed_accident_location": "off Bahamas",
+            "country": "Atlantic Ocean",
+            "presumed_area": "sea",
+            "date": "June 5,1965",
+            "nature": "Military",
+            "departure_airport": "Homestead air force base in Florida",
+            "intended_destination": "Grand Turk Island Airport in the Turks and Caicos Islands",
+            "asn_id": "19650605-0",
+            "type": "Fairchild C-119F Flying Boxcar",
+            "mh370": null,
+            "month_and_day_asn_id": "19650605-0",
+            "month_and_day": "2005-06-01T00:00:00Z",
+            "year": 1965,
+            "cartodb_id": 92,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [28.425377, 35.610303]
+        },
+        "properties": {
+            "phase": "Unknown",
+            "operator": "Middle East Airlines",
+            "total_occupants": "5",
+            "presumed_accident_location": "unknown area",
+            "country": "Mediterranean Sea",
+            "presumed_area": "sea",
+            "date": "September 29, 1958",
+            "nature": "Cargo",
+            "departure_airport": "Beirut International Airport in Lebanon",
+            "intended_destination": "Roma-Ciampino Airport in Italy",
+            "asn_id": "19580929-0",
+            "type": "Avro 685 York I",
+            "mh370": null,
+            "month_and_day_asn_id": "19580929-0",
+            "month_and_day": "2029-09-01T00:00:00Z",
+            "year": 1958,
+            "cartodb_id": 93,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [65.748866, 23.08485]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Indian Air Force",
+            "total_occupants": "7",
+            "presumed_accident_location": "450 km off Jamnagar",
+            "country": "India",
+            "presumed_area": "sea",
+            "date": "March 25,1986",
+            "nature": "Ferry/positioning",
+            "departure_airport": "Muscat International Airport, UAE,",
+            "intended_destination": "unknown airport in India",
+            "asn_id": "19860325-1",
+            "type": "Antonov 32",
+            "mh370": 0,
+            "month_and_day_asn_id": "19860325-1",
+            "month_and_day": "2025-03-01T00:00:00Z",
+            "year": 1986,
+            "cartodb_id": 94,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-179.878385, 52.761295]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "19",
+            "presumed_accident_location": "ca 400 km E off Shemya, Alaska",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "June 5, 1969",
+            "nature": "Military",
+            "departure_airport": "Shemya air force base",
+            "intended_destination": "Fairbanks-Eielson air force base, within Alaska",
+            "asn_id": "19690605-0",
+            "type": "Boeing RC-135E",
+            "mh370": null,
+            "month_and_day_asn_id": "19690605-0",
+            "month_and_day": "2005-06-01T00:00:00Z",
+            "year": 1969,
+            "cartodb_id": 95,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [142.040863, 33.348463]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Air Force",
+            "total_occupants": "67",
+            "presumed_accident_location": "320 km SE of Tokyo",
+            "country": "Japan",
+            "presumed_area": "sea",
+            "date": "March 22, 1957",
+            "nature": "Military",
+            "departure_airport": "Fairfield-Travis air force base in California",
+            "intended_destination": "Tokyo, Japan",
+            "asn_id": "19570322-0",
+            "type": "Boeing C-97C Stratofreighter",
+            "mh370": null,
+            "month_and_day_asn_id": "19570322-0",
+            "month_and_day": "2022-03-01T00:00:00Z",
+            "year": 1957,
+            "cartodb_id": 96,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-150.03141, 58.712171]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "US Department of the Interior",
+            "total_occupants": "4",
+            "presumed_accident_location": "off Alaska",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "September 30, 1974",
+            "nature": "Survey/research",
+            "departure_airport": "Anchorage International Airport, AK",
+            "intended_destination": "Kodiak Airport, within Alaska",
+            "asn_id": "19740930-2",
+            "type": "Grumman G-73 Mallard",
+            "mh370": 0,
+            "month_and_day_asn_id": "19740930-2",
+            "month_and_day": "1930-09-01T00:00:00Z",
+            "year": 1974,
+            "cartodb_id": 97,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.473059, 37.482794]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Navy",
+            "total_occupants": "14",
+            "presumed_accident_location": "370 km SE off New York, New Jersey",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "January 30, 1963",
+            "nature": "Military",
+            "departure_airport": "Patuxent River naval air station",
+            "intended_destination": "Patuxent River naval air station, within Maryland",
+            "asn_id": "19630130-0",
+            "type": "Lockheed P-3A-10-LO Orion",
+            "mh370": null,
+            "month_and_day_asn_id": "19630130-0",
+            "month_and_day": "1930-01-01T00:00:00Z",
+            "year": 1963,
+            "cartodb_id": 98,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-68.675555, 38.227857]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Navy",
+            "total_occupants": "42",
+            "presumed_accident_location": "560 km E off Maryland",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "October 30, 1954",
+            "nature": "Military",
+            "departure_airport": "Patuxent River naval air station, Maryland,",
+            "intended_destination": "Terceira-Lajes Airport in the Azores",
+            "asn_id": "19541030-0",
+            "type": "Lockheed R7V-1 Super Constellation",
+            "mh370": null,
+            "month_and_day_asn_id": "19541030-0",
+            "month_and_day": "1930-10-01T00:00:00Z",
+            "year": 1954,
+            "cartodb_id": 99,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-139.64969, 55.855185]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Canadian Pacific Air Lines",
+            "total_occupants": "37",
+            "presumed_accident_location": "near Sitka, Alaska",
+            "country": "USA",
+            "presumed_area": "sea",
+            "date": "July 21, 1951",
+            "nature": "International Scheduled Passenger",
+            "departure_airport": "Vancouver International Airport in Canada",
+            "intended_destination": "Anchorage-Elmendorf air force base in Alaska",
+            "asn_id": "19510721-0",
+            "type": "Douglas C-54A (DC-4)",
+            "mh370": null,
+            "month_and_day_asn_id": "19510721-0",
+            "month_and_day": "2021-07-01T00:00:00Z",
+            "year": 1951,
+            "cartodb_id": 100,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-138.278801, 62.306249]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "United States Marine Corps",
+            "total_occupants": "44",
+            "presumed_accident_location": "near Snag, Yukon Territory",
+            "country": "Canada",
+            "presumed_area": "land",
+            "date": "January 26, 1950",
+            "nature": "Military",
+            "departure_airport": "Anchorage-Elmendorf air force base in Alaska",
+            "intended_destination": "Great Falls-Malmstrom air force base in Montana",
+            "asn_id": "19500126-0",
+            "type": "Douglas C-54D (DC-4)",
+            "mh370": null,
+            "month_and_day_asn_id": "19500126-0",
+            "month_and_day": "2026-01-01T00:00:00Z",
+            "year": 1950,
+            "cartodb_id": 101,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-70.172768, 27.561112]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "British South American Airways",
+            "total_occupants": "20",
+            "presumed_accident_location": "unknown area",
+            "country": "western Atlantic",
+            "presumed_area": "sea",
+            "date": "January 17, 1949",
+            "nature": "International Scheduled Passenger",
+            "departure_airport": "Bermuda Air Terminal",
+            "intended_destination": "Kingston Airport in Jamaica",
+            "asn_id": "19490117-1",
+            "type": "Avro 688 Tudor 4B",
+            "mh370": null,
+            "month_and_day_asn_id": "19490117-1",
+            "month_and_day": "2017-01-01T00:00:00Z",
+            "year": 1949,
+            "cartodb_id": 102,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-41.984078, 34.820421]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "British South American Airways",
+            "total_occupants": "31",
+            "presumed_accident_location": "unknown area",
+            "country": "western Atlantic",
+            "presumed_area": "sea",
+            "date": "January 30, 1948",
+            "nature": "International Scheduled Passenger",
+            "departure_airport": "Santa Maria-Vila do Porto Airport in the Azores",
+            "intended_destination": "Kindley Field naval air station in Bermuda",
+            "asn_id": "19480130-0",
+            "type": "Avro 688 Tudor 1",
+            "mh370": null,
+            "month_and_day_asn_id": "19480130-0",
+            "month_and_day": "1930-01-01T00:00:00Z",
+            "year": 1948,
+            "cartodb_id": 103,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-69.859305, 17.919557]
+        },
+        "properties": {
+            "phase": "En route",
+            "operator": "Corus Hardware Corporation",
+            "total_occupants": "1",
+            "presumed_accident_location": "S off Santo Domingo",
+            "country": "Dominican Republic",
+            "presumed_area": "sea",
+            "date": "August 18, 2008",
+            "nature": "Private",
+            "departure_airport": "Las Américas International Airport in the Dominican Republic",
+            "intended_destination": "San Juan-Isla Grande Airport in Puerto Rico",
+            "asn_id": "20080818-0",
+            "type": "Cessna 501 Citation I/SP",
+            "mh370": null,
+            "month_and_day_asn_id": "20080818-0",
+            "month_and_day": "2018-08-01T00:00:00Z",
+            "year": 2008,
+            "cartodb_id": 104,
+            "created_at": "2015-03-07T15:01:41Z",
+            "updated_at": "2015-03-07T15:01:41Z"
+        }
+    }]
+}
